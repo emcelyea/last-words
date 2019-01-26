@@ -1,0 +1,23 @@
+body {
+	height: 100vh;
+	background: #001;
+	padding: 20px;
+}
+
+.words-wrapper {
+	width: 100%;
+	height: calc(100% - 20px);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.words-statement {
+	padding-top: 20px;
+	color:white;
+	font-family: 'Heebo', sans-serif;
+}
+.words-name {
+	color:white;
+	font-family: 'Heebo', sans-serif;
+}
